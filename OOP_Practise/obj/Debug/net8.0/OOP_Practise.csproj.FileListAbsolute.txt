@@ -1,0 +1,14 @@
+/home/musttafa_it/RiderProjects/OOP_Practise/OOP_Practise/bin/Debug/net8.0/OOP_Practise
+/home/musttafa_it/RiderProjects/OOP_Practise/OOP_Practise/bin/Debug/net8.0/OOP_Practise.deps.json
+/home/musttafa_it/RiderProjects/OOP_Practise/OOP_Practise/bin/Debug/net8.0/OOP_Practise.runtimeconfig.json
+/home/musttafa_it/RiderProjects/OOP_Practise/OOP_Practise/bin/Debug/net8.0/OOP_Practise.dll
+/home/musttafa_it/RiderProjects/OOP_Practise/OOP_Practise/bin/Debug/net8.0/OOP_Practise.pdb
+/home/musttafa_it/RiderProjects/OOP_Practise/OOP_Practise/obj/Debug/net8.0/OOP_Practise.GeneratedMSBuildEditorConfig.editorconfig
+/home/musttafa_it/RiderProjects/OOP_Practise/OOP_Practise/obj/Debug/net8.0/OOP_Practise.AssemblyInfoInputs.cache
+/home/musttafa_it/RiderProjects/OOP_Practise/OOP_Practise/obj/Debug/net8.0/OOP_Practise.AssemblyInfo.cs
+/home/musttafa_it/RiderProjects/OOP_Practise/OOP_Practise/obj/Debug/net8.0/OOP_Practise.csproj.CoreCompileInputs.cache
+/home/musttafa_it/RiderProjects/OOP_Practise/OOP_Practise/obj/Debug/net8.0/OOP_Practise.dll
+/home/musttafa_it/RiderProjects/OOP_Practise/OOP_Practise/obj/Debug/net8.0/refint/OOP_Practise.dll
+/home/musttafa_it/RiderProjects/OOP_Practise/OOP_Practise/obj/Debug/net8.0/OOP_Practise.pdb
+/home/musttafa_it/RiderProjects/OOP_Practise/OOP_Practise/obj/Debug/net8.0/OOP_Practise.genruntimeconfig.cache
+/home/musttafa_it/RiderProjects/OOP_Practise/OOP_Practise/obj/Debug/net8.0/ref/OOP_Practise.dll

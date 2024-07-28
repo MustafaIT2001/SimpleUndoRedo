@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/musttafa_it/RiderProjects/OOP_Practise/OOP_Practise/OOP_Practise.csproj": {}
+  },
+  "projects": {
+    "/home/musttafa_it/RiderProjects/OOP_Practise/OOP_Practise/OOP_Practise.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/musttafa_it/RiderProjects/OOP_Practise/OOP_Practise/OOP_Practise.csproj",
+        "projectName": "OOP_Practise",
+        "projectPath": "/home/musttafa_it/RiderProjects/OOP_Practise/OOP_Practise/OOP_Practise.csproj",
+        "packagesPath": "/home/musttafa_it/.nuget/packages/",
+        "outputPath": "/home/musttafa_it/RiderProjects/OOP_Practise/OOP_Practise/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/musttafa_it/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/musttafa_it/.dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
